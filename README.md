@@ -40,7 +40,7 @@ We added styles from various paintings to a photo of Chicago. Click on thumbnail
 <img src = 'https://raw.githubusercontent.com/SineYuan/mxnet-fast-neural-style/master/images/cloud_sea-wave.jpg' height = '200px'></a>
 </div>
 
-some pretrained model you can download [here](http://7x2vvx.com1.z0.glb.clouddn.com/checkpoints.zip)
+some pretrained model you can find in `checkpoints` directory.
 
 ## Prerequisites
 
